@@ -1,6 +1,6 @@
 ## Hello World
 
-### Level 3 Heading
+
 
 A paragraph is denoted by white space before and after.
 
